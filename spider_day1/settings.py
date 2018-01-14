@@ -100,9 +100,9 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'spider_day1.pipelines.SpiderDay1Pipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'spider_day1.pipelines.DoubanSpiderPipeline': 300
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

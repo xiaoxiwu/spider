@@ -116,6 +116,12 @@ class DoubanSpiderMiddleware(UserAgentMiddleware):
     '在spider_day1.middlewares.DoubanSpiderMiddleware': 400,
    }
 
+6.代码调试
+ 新增main.py:
+  from scrapy import cmdline
+  cmdline.execute("scrapy crawl doubanSpider".split())
+ 配置Run Configurations将入口脚本指定为main.py即可Debug
+
 
 
 
