@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72139eaa-fb1e-4b9f-9886-206a8c59d3ab" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider_day1/spiders/Ocr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider_day1/spiders/douban_comment_spider.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider_day1/spiders/douban_spider_day1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider_day1/spiders/sim_login.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/spider_day1.iml" afterPath="$PROJECT_DIR$/.idea/spider_day1.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change beforePath="$PROJECT_DIR$/spider_day1/items.py" afterPath="$PROJECT_DIR$/spider_day1/items.py" />
-      <change beforePath="$PROJECT_DIR$/spider_day1/pipelines.py" afterPath="$PROJECT_DIR$/spider_day1/pipelines.py" />
-      <change beforePath="$PROJECT_DIR$/spider_day1/settings.py" afterPath="$PROJECT_DIR$/spider_day1/settings.py" />
-      <change beforePath="$PROJECT_DIR$/spider_day1/spiders/douban_spider.py" afterPath="$PROJECT_DIR$/spider_day1/spiders/douban_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -360,7 +349,7 @@
       <workItem from="1515594615527" duration="5303000" />
       <workItem from="1515682911834" duration="1251000" />
       <workItem from="1515684290329" duration="820000" />
-      <workItem from="1515853765858" duration="32660000" />
+      <workItem from="1515853765858" duration="32699000" />
     </task>
     <task id="LOCAL-00001" summary="add day1 source">
       <created>1515675805686</created>
@@ -369,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515675805686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add day1 source">
+      <created>1515937683551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515937683552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44636000" />
+    <option name="totallyTimeSpent" value="44675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="501" y="32" width="1440" height="758" extended-state="0" />
